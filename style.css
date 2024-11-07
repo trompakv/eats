@@ -50,6 +50,7 @@ body {
         url("images/background-1.png");
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     background-repeat: no-repeat;
 
     height: 619px;
@@ -148,6 +149,7 @@ body {
         url("images/background-2.png");
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     background-repeat: no-repeat;
 
     height: 516px;
